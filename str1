@@ -1,0 +1,5 @@
+sentences  = input("new sentences : ")
+
+for i in range(len(sentences)) : 
+
+    print(sentences[i] + " " , end = '')
