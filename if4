@@ -1,0 +1,13 @@
+number  = int(input(" össze osztható szám :  "))
+x == 3
+y == 5
+
+for i in range(1,1001):
+     x = int(input("3-mal osztható szám :  "))
+     y = int(input(" 5-el oszthetó szám : "))
+
+    if  x // 3 :
+        print("osztható")
+    elif y // 3 == 0 
+        print("osztható")    
+print(x,y)
