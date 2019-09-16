@@ -1,0 +1,6 @@
+how_mutch = int(input("how mutch is 1kg apple: "))
+how_many_apple = int(input("how many apple: "))
+
+price = how_mutch * how_many_apple
+print(price)
+
