@@ -1,0 +1,21 @@
+print("")
+
+sum = int(input("Adjon meg egy összeget : ")) 
+
+m10 = sum // 10
+i10 = sum % 10
+m5 = sum // 5
+i5 = sum % 5
+m2 = sum // 2
+i5 = sum % 2
+m1 = sum // 1
+i1 = sum % 1
+
+print("Ennyi 10-es kell : ")
+print(m10)
+print("Ennyi 5-ös kell : ")
+print(m5)
+print("Ennyi 2-es kell : ")
+print(m2)
+print("Ennyi 1-es kell : ")
+print(m1)
