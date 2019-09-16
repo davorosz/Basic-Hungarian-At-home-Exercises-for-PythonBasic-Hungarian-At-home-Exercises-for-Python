@@ -1,0 +1,16 @@
+sor = int(input("sorok szama : "))
+oszlopok =  int(input("oszlopok szam : "))
+
+
+for i in range(sor):
+    
+    if i == 0 or i == sor-1:
+
+        print(oszlopok * "A")
+
+    else : 
+
+         print("A" + (oszlopok-2) * " " + "A")
+
+
+
