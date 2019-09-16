@@ -1,0 +1,10 @@
+number_1 = int(input("number1 : "))
+number_2 = int(input("number2 : "))
+
+quotient = number_1 // number_2
+remainder = number_1 % number_2
+
+print("this is the quoitent: ")
+print(quotient)
+print("this is the remainder: ")
+print(remainder)
