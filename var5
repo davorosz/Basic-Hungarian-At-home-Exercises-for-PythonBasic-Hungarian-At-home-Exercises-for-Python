@@ -1,0 +1,6 @@
+number_1 = int(input("5 koronás száma : "))
+number_2 = int(input("2 koronás száma : "))
+number_3 = int(input("1 koronás száma : "))
+
+print("Az összes korona ténleges értéke : ")
+print(number_1 * 5  + number_2 * 2 + number_3 * 1)
