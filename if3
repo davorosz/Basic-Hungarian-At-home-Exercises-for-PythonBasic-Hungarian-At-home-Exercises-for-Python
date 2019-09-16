@@ -1,0 +1,13 @@
+number  = int(input("N: "))
+number_2 = 0
+
+for i in range(number) :
+    x = int(input("természtes szám : "))
+
+    if x % 2 == 0 :
+        print("páros")
+    
+    else : 
+        print("páratlan")
+        number_2 += 1
+print(number_2)
