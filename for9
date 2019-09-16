@@ -1,0 +1,7 @@
+num1 = int(input(" egyik oldal: "))
+num2 = int(input("masik oldal: "))
+num3 = int(input("haramadik oldal: "))
+
+if  num3**2 == num1**2 + num2**2 :
+    print("true")
+
