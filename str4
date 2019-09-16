@@ -1,0 +1,11 @@
+number =input(" ")
+character=  int(input(" ")
+
+for i in range(sor):
+    
+    if i == 0 or i == sor-1:
+        print(oszlopok * "")
+
+    else : 
+         print("" + (oszlopok-2) * " " + "")
+
