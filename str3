@@ -1,0 +1,3 @@
+sentences = input ("new sentences : ")
+   for i in range(len( sentences -1 -1 -1 ))
+    print(sentences)
