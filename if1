@@ -1,0 +1,8 @@
+
+sentences = int(input("irj be egy mondat : ")
+x = 0 :
+for i in sentences :
+     
+    if i == " " :
+        x += 1 
+print(x)
