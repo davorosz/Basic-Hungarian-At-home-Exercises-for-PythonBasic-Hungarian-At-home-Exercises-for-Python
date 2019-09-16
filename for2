@@ -1,0 +1,5 @@
+mult = 1
+for i in range(total, 8):
+    mult *= i
+
+print(total)
